@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="IntroMyself">Hello World! This is RYitso, a noobie into this world! I have great ambitions and dreams to fulfill.</string>
+    <string name="Button_Text">Say, Hi!</string>
+</resources>
