@@ -18,12 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:189.23%;position:relative;"><iframe width="260" height="492" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/76afo7"></iframe></div><p><a href="https://imgflip.com/gif/76afo7">via Imgflip</a></p></div>
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with imflip 
+GIF created with [LiceCap] https://www.cockos.com/licecap/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
